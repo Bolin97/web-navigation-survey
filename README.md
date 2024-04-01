@@ -1,6 +1,7 @@
 # web-navigation-survey
 
 Labels: `publisher year` 📄[PDF](), 🔗[Codes](), 💡[Demo]()
+
 Latest update date: Apr 1, 2024 UTC.
 
 ## Vision and Language
